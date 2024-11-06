@@ -37,9 +37,6 @@ const Message = (props: MessagePropsType) => {
                 {props.message.message.time}
                 {/**/}
             </div>
-            <div className={s.test}>
-
-            </div>
         </div>
     )
 }
