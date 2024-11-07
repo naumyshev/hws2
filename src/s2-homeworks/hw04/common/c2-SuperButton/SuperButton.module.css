@@ -2,15 +2,19 @@
 }
 
 .disabled {
+    background-color: gray;
 }
 
 .secondary {
+    background-color: white;
 }
 
 .default {
+    background-color: #0059b3;
 }
 
 .red {
+    background-color: #cc0000;
 }
 
 .default:hover {
