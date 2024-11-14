@@ -3,9 +3,17 @@
 }
 
 .hw {
-
+    outline-style: solid;
+    outline-color: gray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .hwTitle {
-
+    font-size: 35px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+    margin-top: 20px;
 }

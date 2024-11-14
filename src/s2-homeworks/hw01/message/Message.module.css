@@ -1,9 +1,14 @@
 .message {
-
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-right: 20px;
 }
 
 .imageAndText {
-
+    flex-direction: row-reverse;
+    display: flex;
+    justify-content: end;
 }
 
 .imageAndText img {
@@ -27,5 +32,7 @@
 }
 
 .time {
+    display: flex;
+    justify-content: flex-end;
 
 }
